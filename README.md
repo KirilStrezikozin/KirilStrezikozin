@@ -1,4 +1,4 @@
-Kiril Strezikozin, artsit.
+Kiril Strezikozin, artist.
 
 I make 3d arts that represent my inner thoughts and mental states.
 I use software like blender, unreal engine, otoy octane, quixel mixer and bridge, photoshop and davinci resolve.
