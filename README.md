@@ -1,11 +1,26 @@
 Kiril Strezikozin, artist.
 
-I make 3d arts that represent my inner thoughts and mental states.
-I use software like blender, unreal engine, otoy octane, quixel mixer and bridge, photoshop and davinci resolve.
-I focus on details and surrealism, as well as image nature and inside ideas.
-You can contact me via:
-ig: @kemplerart   discord: kemplerart#1586    tg: t.me/kemplerart    mail: kirilstrezikozin@gmail.com
-It's always good to work with people who think the same way you do. 
+C++-Python-Pascal - Regional Programming Olimpiad winner
+Excel-PP-Access-Word - Regional IT Olimpiad winner
+Blender-QMixer-UE - Tremors Redemption Poster
+Blender-QMixer-UE - CGBoost "Life on a Train" Art Challenge Finalist
+Blender-Octane-Davinci Resolve - "Golden Times" Animation
 
-I create what I feel, what I feel creates me.
-I never see a dream as a destination point, I see it as an opportunity to get better.
+Active Project:
+Blender-Python API - BakeMaster Blender Baking Addon
+
+Do:
+3d Arts, Animtions, Design, Software Development
+
+Use:
+Blender, UE, QMixer, Resolve, Adobe, Figma
+
+Contact:
+ig: @kemplerart
+discord: kemplerart#1586
+tg: t.me/kemplerart
+mail: kirilstrezikozin@gmail.com
+stackexchange: stackexchange.com/users/25330671/kemplerart
+
+Details, Surrealism, Image nature, Inner thoughts.
+It's always good to work with people who think the same way you do.
