@@ -1,19 +1,15 @@
-Kiril Strezikozin, artist.
+Kiril Strezikozin, artist and coder
 
-C++-Python-Pascal - Regional Programming Olimpiad winner
-Excel-PP-Access-Word - Regional IT Olimpiad winner
-Blender-QMixer-UE - Tremors Redemption Poster
-Blender-QMixer-UE - CGBoost "Life on a Train" Art Challenge Finalist
-Blender-Octane-Davinci Resolve - "Golden Times" Animation
+3d Arts, Animations, Design, Plugin Development
+
+C++-Python-Pascal - Regional Programming Olimpiad winner; 
+Excel-PP-Access-Word - Regional IT Olimpiad winner; 
+Blender-QMixer-UE - Tremors Redemption Poster; 
+Blender-QMixer-UE - CGBoost "Life on a Train" Art Challenge Finalist; 
+Blender-Octane-Davinci Resolve - "Golden Times" Animation; 
 
 Active Project:
 Blender-Python API - BakeMaster Blender Baking Addon
-
-Do:
-3d Arts, Animtions, Design, Software Development
-
-Use:
-Blender, UE, QMixer, Resolve, Adobe, Figma
 
 Contact:
 ig: @kemplerart
