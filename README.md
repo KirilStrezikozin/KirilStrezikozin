@@ -1,6 +1,6 @@
 Kiril Strezikozin, artist and coder
 
-3d Arts, Animations, Design, Plugin Development
+3d Arts, Animations, Design, Development
 
 C++-Python-Pascal - Regional Programming Olimpiad winner; 
 Excel-PP-Access-Word - Regional IT Olimpiad winner; 
