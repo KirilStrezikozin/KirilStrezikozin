@@ -9,7 +9,11 @@ Whatever it takes, there is only one sun ahead - the future me.
 You might not realize that the power of all our actions comes from the inner energy.<br>
 And that energy follows every path I choose. I can create it.<br>
 
-I won regional IT Olimpiads
+I won regional IT Olimpiads,<br>
+became a finalist in CG Boost "Life on a Train" CGI Challenge,<br>
+made a terrifying Tremors Reebot film poster,<br>
+drew many 3D Arts,<br>
+and now I'm back, taken into coding.
 
 <b>Active Project:</b>
 
