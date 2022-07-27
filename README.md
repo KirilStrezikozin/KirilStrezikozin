@@ -1,22 +1,27 @@
-Kiril Strezikozin, artist and coder
+<b>Kiril Strezikozin, artist and coder</b>
 
-3d Arts, Animations, Design, Development
+3d Arts, Animations, Design, Development<br> - these are the things I love.
 
-C++-Python-Pascal - Regional Programming Olimpiad winner; 
-Excel-PP-Access-Word - Regional IT Olimpiad winner; 
-Blender-QMixer-UE - Tremors Redemption Poster; 
-Blender-QMixer-UE - CGBoost "Life on a Train" Art Challenge Finalist; 
-Blender-Octane-Davinci Resolve - "Golden Times" Animation; 
+Throughout my life journey, I found out that nothing<br>
+stops or deflects me from reaching my aims.<br>
+Whatever it takes, there is only one sun ahead - the future me.
 
-Active Project:
-Blender-Python API - BakeMaster Blender Baking Addon
+You might not realize that the power of all our actions comes from the inner energy.<br>
+And that energy follows every path I choose. I can create it.<br>
 
-Contact:
-ig: @kemplerart
-discord: kemplerart#1586
-tg: t.me/kemplerart
-mail: kirilstrezikozin@gmail.com
-stackexchange: stackexchange.com/users/25330671/kemplerart
+I won regional IT Olimpiads
 
-Details, Surrealism, Image nature, Inner thoughts.
+<b>Active Project:</b>
+
+- Blender-Python API - BakeMaster Blender Baking Addon
+
+<b>Contact:</b>
+
+- ig: @kemplerart<br>
+- discord: kemplerart#1586<br>
+- tg: t.me/kemplerart<br>
+- mail: kirilstrezikozin@gmail.com<br>
+- stackexchange: stackexchange.com/users/25330671/kemplerart<br>
+
+Details, Surrealism, Image nature, Inner thoughts.<br>
 It's always good to work with people who think the same way you do.
