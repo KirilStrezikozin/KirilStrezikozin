@@ -1,31 +1,30 @@
-<b>Kiril Strezikozin, artist and coder</b>
+## Summary
+3D Artist / Modeller / Developer / Creator
 
-3d Arts, Animations, Design, Development<br> - these are the things I love.
+Professional artist with over 11 years of experience. Includes finished Art Education and vast artistic skills in understanding shadows, colors, composition, and design.
 
-Throughout my life journey, I found out that nothing<br>
-stops or deflects me from reaching my aims.<br>
-Whatever it takes, there is only one sun ahead - the future me.
+Professional 3D Artist with over 4 years of creative experience: production-ready models, scenes, and characters.
 
-You might not realize that the power of all our actions comes from the inner energy.<br>
-But that energy follows every path I choose. I can create it.<br>
+Developing programmer with over 4 years of experience including work with Frontend, API, and User Interface.
 
-I won regional IT Olimpiads,<br>
-became a finalist in CG Boost "Life on a Train" CGI Challenge,<br>
-made a terrifying Tremors Reebot film poster,<br>
-drew many 3D Arts,<br>
-and now I'm back, taken into coding.
+---
 
-<b>Active Project:</b>
+### Active Project
 
 - Blender-Python API - BakeMaster Blender Baking Addon
 
-<b>Contact:</b>
+---
 
-- ig: @kemplerart<br>
-- discord: kemplerart#1586<br>
-- tg: t.me/kemplerart<br>
-- mail: kirilstrezikozin@gmail.com<br>
-- stackexchange: stackexchange.com/users/25330671/kemplerart<br>
+### Contact
+
+- <a href="kirilstrezikozin@gmail.com">mail</a>
+- <a href="https://kemplerart.artstation.com/">artstation</a> 
+- <a href="https://www.instagram.com/kemplerart/">instagram</a>
+- <a href="https://t.me/kemplerart">telegram</a>
+- discord username: kemplerart#1586<br>
+- <a href="stackexchange.com/users/25330671/kemplerart">stackexchange</a>
+
+---
 
 Details, Surrealism, Image nature, Inner thoughts.<br>
 It's always good to work with people who think the same way you do.
