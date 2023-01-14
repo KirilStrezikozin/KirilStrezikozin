@@ -1,21 +1,17 @@
 ## Summary
-3D Artist / Modeller / Developer / Creator
+Coder / Developer / 3D Artist
 
-Professional artist with over 11 years of experience. Includes finished Art Education and vast artistic skills in understanding shadows, colors, composition, and design.
-
-Professional 3D Artist with over 4 years of creative experience: production-ready models, scenes, and characters.
-
-Developing programmer with over 4 years of experience including work with Frontend, API, and User Interface.
+A random guy who lives on Earth with years of staring-at-the-screen experience.
 
 ---
 
-### Active Project
+### Public Projects
 
-- Blender-Python API - BakeMaster Blender Baking Addon
+- [BakeMaster Plugin](https://bakemaster-blender-addon.readthedocs.io/en/latest/pages/about.html) for Texture Baking in Blender 3D Application
 
 ---
 
-### Contact
+### Reach me
 
 - <a href="kirilstrezikozin@gmail.com">mail</a>
 - <a href="https://kemplerart.artstation.com/">artstation</a> 
@@ -26,5 +22,4 @@ Developing programmer with over 4 years of experience including work with Fronte
 
 ---
 
-Details, Surrealism, Image nature, Inner thoughts.<br>
-It's always good to work with people who think the same way you do.
+It's always good to work with people who think the same way you do; and when they respect your shit code especially.
