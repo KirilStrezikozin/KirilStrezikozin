@@ -16,8 +16,8 @@ A random guy who lives on Earth with years of staring-at-the-screen experience.
 - <a href="kirilstrezikozin@gmail.com">mail</a>
 - <a href="https://kemplerart.artstation.com/">artstation</a> 
 - <a href="https://www.instagram.com/kemplerart/">instagram</a>
-- <a href="https://t.me/kemplerart">telegram</a>
-- discord username: kemplerart#1586<br>
+- <a href="https://t.me/heiskempler">telegram</a>
+- discord username: heiskempler#1586<br>
 - <a href="stackexchange.com/users/25330671/kemplerart">stackexchange</a>
 
 ---
