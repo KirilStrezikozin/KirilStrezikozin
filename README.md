@@ -8,6 +8,7 @@ A random guy who lives on Earth with years of staring-at-the-screen experience.
 ### Public Projects
 
 - [BakeMaster Plugin](https://bakemaster-blender-addon.readthedocs.io/en/latest/pages/about.html) for Texture Baking in Blender 3D Application
+- [Telegram Bot](https://t.me/historic_archivarius_bot) that uses Google Sheets for data storage.
 
 ---
 
