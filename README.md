@@ -1,8 +1,6 @@
 ## Summary
 Developer / 3D Artist
 
----
-
 ### Public Projects
 
 - [BakeMaster Plugin](https://bakemaster-blender-addon.readthedocs.io/en/latest/pages/about.html) for Texture Baking in Blender 3D Application
