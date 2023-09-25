@@ -1,7 +1,5 @@
 ## Summary
-Coder / Developer / 3D Artist
-
-A random guy who lives on Earth with years of staring-at-the-screen experience.
+Developer / 3D Artist
 
 ---
 
@@ -18,9 +16,5 @@ A random guy who lives on Earth with years of staring-at-the-screen experience.
 - <a href="https://kemplerart.artstation.com/">artstation</a> 
 - <a href="https://www.instagram.com/kemplerart/">instagram</a>
 - <a href="https://t.me/heiskempler">telegram</a>
-- discord username: heiskempler#1586<br>
+- discord username: heiskempler<br>
 - <a href="stackexchange.com/users/25330671/kemplerart">stackexchange</a>
-
----
-
-It's always good to work with people who think the same way you do; and when they respect your shit code especially.
